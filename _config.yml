@@ -4,6 +4,7 @@ header-img: astrochimp-bg.jpg
 email: nnamdijr@gmail.com
 copyright_name: Space Monkey
 description: "This is the Space Monkey Blog, created by me."
+baseurl: "/home"
 url: "http://nnamdioffor.com"
 twitter_username: NnamdiJr
 github_username:  NnamdiJr
