@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
 
-    <title>Space Monkey - {{ page.title }}</title>
+    <title>{{ page.title }}</title>
 
-    <link rel="canonical" href="http://nnamdioffor.com/{{ page.url }}">
+    <link rel="canonical" href="{{ site.url }}/{{ page.url }}">
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="nnamdijr.github.io/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="nnamdijr.github.io/css/clean-blog.css">
+    <link rel="stylesheet" href="{{ "/css/clean-blog.css" | prepend: site.baseurl }}">
 
     <!-- Pygments Github CSS -->
-    <link rel="stylesheet" href="nnamdijr.github.io/css/syntax.css">
+    <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
 
     <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
