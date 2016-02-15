@@ -1,2 +1,21 @@
-name: Nnamdi's Blog
+# Site settings
+title: Space Monkey
+header-img: astrochimp-bg.jpg
+email: nnamdijr@gmail.com
+copyright_name: Space Monkey
+description: "This is the Space Monkey Blog, created by me."
+baseurl: "/space-monkey-blog"
+url: "http://nnamdioffor.com"
+twitter_username: NnamdiJr
+github_username:  NnamdiJr
+linkedin_username:  nnamdioffor
+email_username:  nnamdijr@gmail.com.com
+
+# Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
