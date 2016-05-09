@@ -1,0 +1,152 @@
+---
+layout:     post
+title:      "NLP with NLTK"
+subtitle:   "Intro to NLTK Part I"
+date:       2016-02-18 14:32:00
+author:     "Nnamdi"
+header-img: "img/post-bg.jpg"
+---
+
+NLTK is the most famous Python NLP Toolkit, starting with this post I will try to give a brief introduction to using NLTK with Python.
+
+**About NLTK**
+
+Here is a descripiton from the NLTK official site:
+>NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
+
+**Installing NLTK**
+
+Here are the steps to install NLTK on Mac/Unix:
+
+'''python
+Install Setuptools: http://pypi.python.org/pypi/setuptools
+Install Pip: run sudo easy_install pip
+Install Numpy (optional): run sudo pip install -U numpy
+Install PyYAML and NLTK: run sudo pip install -U pyyaml nltk
+Test installation: run python then type import nltk
+'''
+
+**Installing NLTK Data**
+After installing NLTK, you need to install NLTK data which includes a lot of corpora, grammars, models and etc. Without NLTK data, NLTK is pretty useless. You can find the complete nltk data list here: http://nltk.org/nltk_data/
+
+The simplest way to install NLTK Data is run the Python interpreter and type the commands:
+
+'''python
+Type “help”, “copyright”, “credits” or “license” for more information.
+>>> import nltk
+>>> nltk.download()
+'''
+
+A new window should open, showing the NLTK Downloader:
+![alt text](http://textminingonline.com/wp-content/uploads/2014/01/nltk_downloader_on_mac.png "NLTK Downloader")
+
+Click on the File menu and select Change Download Directory, next, select the packages or collections you want to download, I suggest you select “all” and download everything.
+
+Graphical interface
+
+If you install NLTK Data in a linux vps, no graphical interface, no window open, you still can use the above nltk.download() command, you can follow these steps to download all nltk_data:
+
+'''python
+Python 2.7.11 |Anaconda 2.4.0 (64-bit)| (default, Feb 16 2016, 09:58:36)
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import nltk
+>>> nltk.download()
+NLTK Downloader
+---------------------------------------------------------------------------
+d) Download l) List u) Update c) Config h) Help q) Quit
+---------------------------------------------------------------------------
+Download which package (l=list; x=cancel)?
+Downloader> l
+
+Packages:
+[*] maxent_ne_chunker... ACE Named Entity Chunker (Maximum entropy)
+[*] abc................. Australian Broadcasting Commission 2006
+[*] alpino.............. Alpino Dutch Treebank
+[*] biocreative_ppi..... BioCreAtIvE (Critical Assessment of Information
+Extraction Systems in Biology)
+[*] brown............... Brown Corpus
+[*] brown_tei........... Brown Corpus (TEI XML Version)
+[*] cess_cat............ CESS-CAT Treebank
+[*] cess_esp............ CESS-ESP Treebank
+[*] chat80.............. Chat-80 Data Files
+[*] city_database....... City Database
+[*] cmudict............. The Carnegie Mellon Pronouncing Dictionary (0.6)
+[*] comtrans............ ComTrans Corpus Sample
+[*] conll2000........... CONLL 2000 Chunking Corpus
+[*] conll2002........... CONLL 2002 Named Entity Recognition Corpus
+[*] conll2007........... Dependency Treebanks from CoNLL 2007 (Catalan
+and Basque Subset)
+[*] dependency_treebank. Dependency Parsed Treebank
+[*] europarl_raw........ Sample European Parliament Proceedings Parallel
+Corpus
+Hit Enter to continue:
+Downloader> d
+Download which package (l=list; x=cancel)?
+Identifier> all
+'''
+
+If you download everything (corpora, models, grammar) NLTK needs, you can test it by running:
+
+Downloader> u
+
+If it says “Nothing to update”, everything is ok.
+
+Another way to install NLTK data is using commands, but I don't suggest doing it this way.
+
+>Python 2.7: Run the command python -m nltk.downloader all. To ensure central installation, run the command sudo python -m nltk.downloader -d /usr/share/nltk_data all.
+
+If you run into problems when downloading NLTK Data, such as downloading times out or other strange things, I suggest you download all the NLTK data directly through the nltk_data github page:
+
+<https://github.com/nltk/nltk_data>
+
+It says that “NLTK Data lives in the gh-pages branch of this repository.”, so you can visit the branch:
+
+<https://github.com/nltk/nltk_data/tree/master>
+
+Download the zip file and unzip it, then copy the six sub-directories in the packages into your nltk_data directory: chunkers, corpora, help, stemmers, taggers, tokenizers
+
+This is probably the best unofficial way to install NLTK_Data.
+
+**Testing NLTK**
+
+1) Brown Corpus:
+
+'''python
+>> from nltk.corpus import brown
+>>> brown.words()[0:10]
+['The', 'Fulton', 'County', 'Grand', 'Jury', 'said', 'Friday', 'an', 'investigation', 'of']
+>>> brown.tagged_words()[0:10]
+[('The', 'AT'), ('Fulton', 'NP-TL'), ('County', 'NN-TL'), ('Grand', 'JJ-TL'), ('Jury', 'NN-TL'), ('said', 'VBD'), ('Friday', 'NR'), ('an', 'AT'), ('investigation', 'NN'), ('of', 'IN')]
+>>> len(brown.words())
+1161192
+>>> dir(brown)
+['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_add', '_c2f', '_delimiter', '_encoding', '_f2c', '_file', '_fileids', '_get_root', '_init', '_map', '_para_block_reader', '_pattern', '_resolve', '_root', '_sent_tokenizer', '_sep', '_tag_mapping_function', '_word_tokenizer', 'abspath', 'abspaths', 'categories', 'encoding', 'fileids', 'open', 'paras', 'raw', 'readme', 'root', 'sents', 'tagged_paras', 'tagged_sents', 'tagged_words', 'words']
+'''
+
+2) NLTK Book Resources:
+
+'''python
+>>> from nltk.book import *
+*** Introductory Examples for the NLTK Book ***
+Loading text1, ..., text9 and sent1, ..., sent9
+Type the name of the text or sentence to view it.
+Type: 'texts()' or 'sents()' to list the materials.
+text1: Moby Dick by Herman Melville 1851
+text2: Sense and Sensibility by Jane Austen 1811
+text3: The Book of Genesis
+text4: Inaugural Address Corpus
+text5: Chat Corpus
+text6: Monty Python and the Holy Grail
+text7: Wall Street Journal
+text8: Personals Corpus
+text9: The Man Who Was Thursday by G . K . Chesterton 1908
+
+>>> dir(text1)
+['_CONTEXT_RE', '_COPY_TOKENS', '__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__getitem__', '__hash__', '__init__', '__len__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_collocations', '_context', '_num', '_vocab', '_window_size', 'collocations', 'common_contexts', 'concordance', 'count', 'dispersion_plot', 'findall', 'generate', 'index', 'name', 'plot', 'readability', 'similar', 'tokens', 'vocab']
+>>> len(text1)
+260819
+Sperm Whale; Moby Dick; White Whale; old man; Captain Ahab; sperm
+whale; Right Whale; Captain Peleg; New Bedford; Cape Horn; cried Ahab;
+years ago; lower jaw; never mind; Father Mapple; cried Stubb; chief
+mate; white whale; ivory leg; one hand
+'''
