@@ -12,9 +12,9 @@ Wow, it's surprsing just how easy it is to create a website nowadays.
 I remember when I was in high school and spent weeks (_maybe months_) learning html, hacking on whatever free website templates were out there, and going crazy trying to figure out how to put all the pieces together, and all that just to get a crappy basic looking page (_mostly text_).
 
 Since then, a lot has changed... now you can get a great looking site up in minutes. I spent just a tad bit more than an 1hr total to get this site ready.
-..* ~10min on GoDaddy for domain name
-..* ~15min on [Github Pages](https://pages.github.com/) for hosting
-.. *~40min reading [Jekyll tutorial and documentation](https://jekyllrb.com/docs/home/)
+..*10min on GoDaddy for domain name
+..*15min on [Github Pages](https://pages.github.com/) for hosting
+..*40min reading [Jekyll tutorial and documentation](https://jekyllrb.com/docs/home/)
 
 That said, the hardest part isn't actually building the site anymore (_done a couple weeks ago_), it's sitting down and writing something in it! (_doing now_).
 
