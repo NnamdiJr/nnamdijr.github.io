@@ -17,16 +17,12 @@ Since then, a lot has changed... now you can get a great looking site up in minu
 + ~15min on [Github Pages](https://pages.github.com/) for hosting
 + ~40min reading [Jekyll tutorial and documentation](https://jekyllrb.com/docs/home/)
 
-That said, the hardest part isn't actually building the site anymore (_done a couple weeks ago_), it's sitting down and writing something in it! (_doing now_).
+That said, the hardest part isn't actually building a site anymore, it's avoiding procrastination and actually sitting down to write something in it!.
 
-So what's this site about? Perspective!
+So what's this site about? ~~Twerking!~~ Perspective!
 
-As you can guess from the front page tagline, I'll be writing mostly about NLP & Data Science. If that means nothing to you think Text! Lots and lots of juicy text.. comments, reviews, tweets, speeches, etc. and everything that's hidden in the words.
+As you can guess from the front page tagline, I'll be writing mostly about NLP & Data Science. If that means nothing to you think **_text_**! Lots and lots of juicy text.. comments, reviews, tweets, speeches, etc. and everything that's hidden in the words.
 
-The goal here is to tackle unique topics and ideas, id est the kind that would never see the day of light from the "usual data science community" (_see: non-black_), and present them in a hopefully entertaining yet enlightening way.
+The goal here is to tackle unique topics and ideas, id est the kind that would never see the light of day from the "usual data science community" (_see: non-black_), and present them in a hopefully entertaining yet enlightening way.
 
 So, go forth! and thanks for reading!
-
-
-
-
