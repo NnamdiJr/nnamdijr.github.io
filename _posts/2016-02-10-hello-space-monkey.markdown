@@ -21,6 +21,7 @@ That said, the hardest part isn't actually building the site anymore (_done a co
 So what's this site about? Perspective!
 
 As you can guess from the front page tagline, I'll be writing mostly about NLP & Data Science. If that means nothing to you think Text! Lots and lots of juicy text.. comments, reviews, tweets, speeches, etc. and everything that's hidden in the words.
+
 The goal here is to tackle unique topics and ideas, id est the kind that would never see the day of light from the "usual data science community" (_see: non-black_), and present them in a hopefully entertaining yet enlightening way.
 
 So, go forth! and thanks for reading!
