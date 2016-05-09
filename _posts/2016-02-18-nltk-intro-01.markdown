@@ -4,7 +4,7 @@ title:      "NLP with NLTK"
 subtitle:   "Intro to NLTK Part I"
 date:       2016-02-18 14:32:00
 author:     "Nnamdi"
-header-img: "img/post-bg.jpg"
+header-img: "img/NLP_Books.jpg"
 ---
 
 NLTK is the most famous Python NLP Toolkit, starting with this post I will try to give a brief introduction to using NLTK with Python.
