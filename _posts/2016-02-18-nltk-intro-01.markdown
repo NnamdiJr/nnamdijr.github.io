@@ -12,7 +12,8 @@ NLTK is the most famous Python NLP Toolkit, starting with this post I will try t
 **About NLTK**
 
 Here is a descripiton from the NLTK official site:
->NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
+
+> NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
 
 **Installing NLTK**
 
@@ -27,7 +28,8 @@ Test installation: run python then type import nltk
 ```
 
 **Installing NLTK Data**
-After installing NLTK, you need to install NLTK data which includes a lot of corpora, grammars, models and etc. Without NLTK data, NLTK is pretty useless. You can find the complete nltk data list here: http://nltk.org/nltk_data/
+
+After installing NLTK, you need to install NLTK data which includes a lot of corpora, grammars, models and etc. Without NLTK data, NLTK is pretty useless. You can find the complete nltk data list here: <http://nltk.org/nltk_data/>
 
 The simplest way to install NLTK Data is run the Python interpreter and type the commands:
 
