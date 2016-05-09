@@ -7,4 +7,4 @@ author:     "Nnamdi"
 header-img: "img/post-bg.jpg"
 ---
 
-<p><b>First post coming soon!!</b></p>
+**First post coming soon!!**
