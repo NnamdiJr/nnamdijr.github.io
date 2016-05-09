@@ -18,24 +18,24 @@ Here is a descripiton from the NLTK official site:
 
 Here are the steps to install NLTK on Mac/Unix:
 
-'''python
+```python
 Install Setuptools: http://pypi.python.org/pypi/setuptools
 Install Pip: run sudo easy_install pip
 Install Numpy (optional): run sudo pip install -U numpy
 Install PyYAML and NLTK: run sudo pip install -U pyyaml nltk
 Test installation: run python then type import nltk
-'''
+```
 
 **Installing NLTK Data**
 After installing NLTK, you need to install NLTK data which includes a lot of corpora, grammars, models and etc. Without NLTK data, NLTK is pretty useless. You can find the complete nltk data list here: http://nltk.org/nltk_data/
 
 The simplest way to install NLTK Data is run the Python interpreter and type the commands:
 
-'''python
+```python
 Type “help”, “copyright”, “credits” or “license” for more information.
 >>> import nltk
 >>> nltk.download()
-'''
+```
 
 A new window should open, showing the NLTK Downloader:
 ![alt text](http://textminingonline.com/wp-content/uploads/2014/01/nltk_downloader_on_mac.png "NLTK Downloader")
@@ -46,7 +46,7 @@ Graphical interface
 
 If you install NLTK Data in a linux vps, no graphical interface, no window open, you still can use the above nltk.download() command, you can follow these steps to download all nltk_data:
 
-'''python
+```python
 Python 2.7.11 |Anaconda 2.4.0 (64-bit)| (default, Feb 16 2016, 09:58:36)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import nltk
@@ -83,7 +83,7 @@ Hit Enter to continue:
 Downloader> d
 Download which package (l=list; x=cancel)?
 Identifier> all
-'''
+```
 
 If you download everything (corpora, models, grammar) NLTK needs, you can test it by running:
 
@@ -111,7 +111,7 @@ This is probably the best unofficial way to install NLTK_Data.
 
 1) Brown Corpus:
 
-'''python
+```python
 >> from nltk.corpus import brown
 >>> brown.words()[0:10]
 ['The', 'Fulton', 'County', 'Grand', 'Jury', 'said', 'Friday', 'an', 'investigation', 'of']
@@ -121,11 +121,11 @@ This is probably the best unofficial way to install NLTK_Data.
 1161192
 >>> dir(brown)
 ['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_add', '_c2f', '_delimiter', '_encoding', '_f2c', '_file', '_fileids', '_get_root', '_init', '_map', '_para_block_reader', '_pattern', '_resolve', '_root', '_sent_tokenizer', '_sep', '_tag_mapping_function', '_word_tokenizer', 'abspath', 'abspaths', 'categories', 'encoding', 'fileids', 'open', 'paras', 'raw', 'readme', 'root', 'sents', 'tagged_paras', 'tagged_sents', 'tagged_words', 'words']
-'''
+```
 
 2) NLTK Book Resources:
 
-'''python
+```python
 >>> from nltk.book import *
 *** Introductory Examples for the NLTK Book ***
 Loading text1, ..., text9 and sent1, ..., sent9
@@ -149,4 +149,4 @@ Sperm Whale; Moby Dick; White Whale; old man; Captain Ahab; sperm
 whale; Right Whale; Captain Peleg; New Bedford; Cape Horn; cried Ahab;
 years ago; lower jaw; never mind; Father Mapple; cried Stubb; chief
 mate; white whale; ivory leg; one hand
-'''
+```
