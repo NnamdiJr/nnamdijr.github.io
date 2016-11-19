@@ -66,5 +66,5 @@ I'm also looking forward to meeting everyone else in my cohort (Cohort 20), they
 
 =)
 
-_P.S. - I created this site and blog at the beginning of the year, but as you can see I didn't write much of anything since then. Like [I said](http://nnamdioffor.com/2016/02/10/hello-space-monkey/) the hard part is sitting down to write. Hoping to change that, now that I have something to write about. 
-<br>I plan to post weekly as I progress through the Galvanize and Airbnb programs, and hope that sharing my experience here will be useful to someone reading... or something like that._
+<sub>_P.S. - I created this site and blog at the beginning of the year, but as you can see I didn't write much of anything since then. Like [I said](http://nnamdioffor.com/2016/02/10/hello-space-monkey/) the hard part is sitting down to write. Hoping to change that, now that I have something to write about. 
+<br>I plan to post weekly as I progress through the Galvanize and Airbnb programs, and hope that sharing my experience here will be useful to someone reading... or something like that._</sub>
