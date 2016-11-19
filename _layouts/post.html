@@ -12,7 +12,7 @@ layout: blog
                     {% if page.subtitle %}
                     <h2><span style="background-color:rgba(0, 0, 0, 0.5);">{{ page.subtitle }}</span></h2>
                     {% endif %}
-                    <span class="meta" style="background-color:rgba(0, 0, 0, 0.5);">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    <span class="meta"><span style="background-color:rgba(0, 0, 0, 0.5);">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span></span>
                 </div>
             </div>
         </div>
