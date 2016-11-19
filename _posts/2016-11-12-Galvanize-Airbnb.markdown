@@ -61,6 +61,10 @@ After submitting it, all that was left was getting ready for Day01 on Monday.
 
 ## Leggo!
 All that said, I'm just really hyped to have the chance to study nothing but data science, machine learning, NLP... pretty much all the things I love, like a madman for the next 3-months in a great program.. AND THEN.. immediately after that get to work with an amazing startup, Airbnb!
-<br>I'm also looking forward to meeting everyone else in my cohort (Cohort 20), they'll be the ones deep in the Data Science trenches with me for the next 3-months and will be a great network to have in SF for the future!
+
+I'm also looking forward to meeting everyone else in my cohort (Cohort 20), they'll be the ones deep in the Data Science trenches with me for the next 3-months and will be a great network to have in SF for the future!
 
 =)
+
+_P.S. - I created this site and blog at the beginning of the year, but as you can see I didn't write much of anything since then. Like [I said](http://nnamdioffor.com/2016/02/10/hello-space-monkey/) the hard part is sitting down to write. Hoping to change that, now that I have something to write about. 
+<br>I plan to post weekly as I progress through the Galvanize and Airbnb programs, and hope that sharing my experience here will be useful to someone reading... or something like that._
