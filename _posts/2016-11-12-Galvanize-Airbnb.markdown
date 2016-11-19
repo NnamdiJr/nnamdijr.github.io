@@ -14,20 +14,21 @@ Well, since about a year and a half ago when I landed in SF, I've been somewhat 
 <br>You see, I had my crosshairs set on a very small handful of companies (just 2 to be exact), but didn't feel my skills were up to par to get in... so the next best thing (_i.e. killing time while still being able to pay the bills_) was to take on contract gigs and pick up what skills I could on my own, while waiting for the _right_ opportunity to present itself.
 
 ## The Opportunity
-It took some time, but that opportunity finally came in the form of Airbnb's Data Science Associate (DSA) program. The program is basically a kind of partnership between Airbnb & Galvanize, where **6** qualified individuals are selected from groups underrepresented in Data Science/Tech, and get a large scholarship to go through Galvanize's 3-month DSI program. Then afterwards, go into a 3-month apprenticeship on Airbnb's Data Science team. Yea, pretty awesome right?
+It took some time, but that opportunity finally came in the form of Airbnb's Data Science Associate (DSA) program. The program is basically a kind of partnership between Airbnb & Galvanize, where only **6** qualified individuals are selected from groups underrepresented in Data Science/Tech, and get a large scholarship to go through Galvanize's 3-month DSI program. Then afterwards, go into a 3-month apprenticeship on Airbnb's Data Science team. Yea, pretty awesome right?
 
 Oh, how did I hear about it you ask?
 <br>**Answer**: I was stalking Airbnb's careers page for over a year of course!
 
-About twice a week I hovered around the [Data Science & Analytics Dept](https://www.airbnb.co.in/careers/departments/data-science-analytics) page looking at positions and asking myself whether I should apply or not, when one day.. surprise surprise! A program specifically created for me pops up! (_Here would be a wonderful spot to talk about the issue of minorities in DS/Tech, but I'll put that on standby for another post..._)
+About twice a week I hovered around the [Data Science & Analytics Dept](https://www.airbnb.co.in/careers/departments/data-science-analytics) page looking at positions and asking myself whether I should apply or not, when one day.. surprise surprise! A program specifically created for me pops up! (_Here would be a wonderful time to talk about the issue of minorities in DS/Tech, but I'll put that on standby for another post..._)
 
 ## The Interviews
-Like a [cheetah hyper-focused on chasing it's prey](https://www.youtube.com/watch?v=NuyeVN7PuTM), I was locked-on to getting into the program. After applying and writing essays, the issue was now to pass the Galvanize and Airbnb interviews.
-<br>Galvanize sends prospective students a ton of prep material before the interviews, so for the future Galvanize students reading, rather than tell you what's asked during each step of the interview I'll just say that if you go through all the prep material they send, **_thoroughly_**, you can definitely pass the interviews. The big caveat being, if you have not had any exposure to coding before, you should probably spend a good chunk of time on that before applying.
+Like a [cheetah hyper-focused on chasing its prey](https://www.youtube.com/watch?v=NuyeVN7PuTM), I was locked-on to getting into the program, and I had to move fast, cuz remember, only 6 people get in (_literally thousands apply to any Airbnb opening and I assumed this would be no different_). After shooting off my applications (_well, not so much shooting off, the application essays and questions were things I had gone through in my head a million times before, so were easy to answer_), the issue was now to pass the Galvanize and Airbnb interviews.
+
+<br>Galvanize sends prospective students a ton of prep material before the interviews, so for the future Galvanize students reading this, rather than tell you what's asked during each step of the interview I'll just say that if you go through all the prep material they send, **_thoroughly_**, you can definitely pass the interviews. The big caveat being, if you have not had any exposure to coding before, you should probably spend a good chunk of time on that before applying.
 <br>Galvanize interview steps:<br>
-* Initial take-home assignment
-* Python interview
-* Math/Probability/Stats interview
++ Initial take-home assignment
++ Python interview
++ Math/Probability/Stats interview
 
 For me, my Probability and Stats knowledge was **extremely** rusty and was the step I was most worried about failing. So I made sure to watch Khan Academy's [Stats](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566) & [Prob](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19) playlists a few times (_is 10x still considered a few?_) leading up to that part of the interview. 
 <br>Luckily, it was enough to pass and I got my acceptance email a day or so after.
