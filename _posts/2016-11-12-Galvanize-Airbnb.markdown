@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Galvanize DSI & Airbnb DSA"
+title:      "Galvanize & Airbnb"
 subtitle:   "DSI Week 0: Precourse"
 date:       2016-11-12 10:28:10
 author:     "Nnamdi"
