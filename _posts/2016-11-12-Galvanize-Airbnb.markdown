@@ -28,7 +28,7 @@ About twice a week I poked around the [Data Science & Analytics Dept](https://ww
 ## The Interviews
 Like a [cheetah hyper-focused on chasing its prey](https://www.youtube.com/watch?v=NuyeVN7PuTM), I was locked-on to getting into the program, and I had to move fast, cuz remember, only 6 people get in (_literally thousands apply to any single Airbnb opening on LinkedIn alone and I assumed this would be no different_). 
 
-After shooting off my applications (_well, not so much shooting off, the application essays and questions were things I had gone through in my head a million times before, so were easy to write_) the issue was now to pass the Galvanize and Airbnb interviews.
+After shooting off my applications (_well, not so much shooting off, I've been an Airbnb host/guest since 2011, a CouchSurfer before that, and an underrepresented minority in tech probably for even longer.. so the application essays and questions were things I had thought about on my own a million times before, and were easy to write_) the issue was now to pass the Galvanize and Airbnb interviews.
 
 Galvanize sends prospective students a ton of prep material before the interviews, so for the future Galvanize DSI students reading this, rather than telling you exactly what goes on during each step of the interview I'll just say that if you go through all the prep material they send, **_thoroughly_**, you can definitely pass the interviews. The big caveat being, if you have not had any exposure to coding before, you should probably spend a good chunk of time on that before applying.
 <br>Galvanize interview steps:
