@@ -14,9 +14,10 @@ Monday started off with orientation and getting to meet some instructors and the
 
 ## The Cohort:
 When I arrived for orientation, I noticed a couple things:
+
 + About half the group are women 
-+ A wide age range 
-+ Many differnet backgrounds 
++ There's a wide age range among students 
++ Students come from many differnet backgrounds 
 
 Everyone is coming into the program with a different story for how they got here, at different points in their lives, and from different countries.
 
@@ -32,6 +33,7 @@ It's split into two parts, a morning 1-hour lecture on the topic of the day, fol
 During sprints, we either work individually or in pairs at the computer lab, going through coding exercises on that day's topic.
 Breakouts on the other hand are kind of like those review sessions in the TA's office after a lecture in college, where you play around with and chew on what you've just learned in tiny little bites. 
 
+## The New E-D-U:
 At the end of the week there was a Meet And Greet where we got to talk with students from the previous cohorts currently finishing up their projects and getting ready to graduate. I learned that our daily schedule is a result of feedback Galvanize got from students in the cohort just before us. They had complained that too much time was spent just sitting in lecture and that they needed more hands on time with problems.
 
 This is pretty amazing to me and is a testament to how Galvanize and other new education paradigms (Bootcamps, MOOCs, etc.) are embracing the... umm... "startup-ification" of education (_not sure what else to call it_). 
