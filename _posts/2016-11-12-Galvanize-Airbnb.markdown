@@ -58,7 +58,7 @@ But now that I did have it, I had to worry about paying for the small (_but stil
 
 I kept thinking it would be **REALLY** f*cking sad if I made it this far but couldn't go through the DSI just because of money, but once again, luckily, I found out that one of [Galvanize's Tuition Assistance partners](www.galvanize.com/scholarships) gives accepted students a kind of 'benefit-of-the-doubt' loan (_makes sense, considering Galvanize's high post-graduation placement rates and salaries_). 
 
-This saved my a** and I'm **extremely** greatful to both Galvanize and SkillsFund for having that agreement in place.
+This saved my a** and I'm **extremely** grateful to both Galvanize and SkillsFund for having that agreement in place.
 
 ## Precourse
 With all the acceptance stuff out of the way, I was added to a GitHub repo with precourse materials to work on. It took me a couple days to complete, and the Stats section made me feel like a huge idiot, but I got through it and think it was good practice.
