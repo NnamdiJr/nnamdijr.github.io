@@ -39,16 +39,19 @@ For me, my Probability and Stats knowledge was **extremely** rusty and was the s
 <br>Luckily, it was enough to pass and I got my acceptance email a day or so after.
 
 Next step, Airbnb.
-<br>After getting the initial call, Airbnb sent me a take-home challenge with accompanying dataset, giving 72 hours to complete it. The problem wasn't too complex so it wasn't hard to finish given the time allowed, but there were a couple hidden nuggets in the data that could have easily been overlooked if I had not been wary of the nitty gritty details. I think finding these were key to making it to the next round. _Shout-outs to R and the [Hadleyverse](http://blog.revolutionanalytics.com/2015/03/hadleyverse.html) for helping make that happen!_
-<br>After that, was 2 back-to-back interviews over Skype with Airbnb employees. 
-<br>One light technical interview, and another more behavioral one on alignment with Airbnb's values. Both interviews were fairly straightforward and it was fun talking with the interviewers, so afterwards I felt pretty strongly I had done well.
-<br> ...and I was right! About a week later I got the call that I got the scholarship.
-<br>Hoooray!
+
+After getting the initial call, Airbnb sent me a take-home challenge with accompanying dataset, giving 72 hours to complete it. The problem wasn't too complex so it wasn't hard to finish given the time allowed, but there were a couple hidden nuggets in the data that could have easily been overlooked if I had not been wary of the nitty gritty details. I think finding these were key to making it to the next round. _Shout-outs to R and the [Hadleyverse](http://blog.revolutionanalytics.com/2015/03/hadleyverse.html) for helping make that happen!_
+
+After that, was 2 back-to-back interviews over Skype with Airbnb employees. One light technical interview, and another more behavioral one on alignment with Airbnb's values. Both interviews were fairly straightforward and it was fun talking with the interviewers, so afterwards I felt pretty strongly I had done well.
+
+...and I was right! About a week later I got the call that I got the scholarship.
+
+Hoooray!
 
 ## The Financing
 On the other hand, if I hadn't gotten the Airbnb scholarship, there was NO way I could have afforded the DSI program, period.
 
-<br>But now that I did have it, I had to worry about paying for the small (_but still relatively large for a broke a** like me_) remaining tuition. For a reference point, I hustled and struggled **_just_** to get the enrollment deposit paid... so _that_ being my situation, I was rightly panicked about the rest of the tuition and I doubted I would qualify for any kind of educational loan.
+But now that I did have it, I had to worry about paying for the small (_but still relatively large for a broke a** like me_) remaining tuition. For a reference point, I hustled and struggled **_just_** to get the enrollment deposit paid... so _that_ being my situation, I was rightly panicked about the rest of the tuition and I doubted I would qualify for any kind of educational loan.
 
 I kept thinking it would be **REALLY** f*cking sad if I made it this far but couldn't go through the DSI just because of money, but once again, luckily, I found out that one of [Galvanize's Tuition Assistance partners](www.galvanize.com/scholarships) gives accepted students a kind of 'benefit-of-the-doubt' loan (_makes sense, considering Galvanize's high post-graduation placement rates and salaries_). 
 
