@@ -10,7 +10,8 @@ header-img: ""
 This week went like a blur...
 
 Monday started off with orientation and getting to meet some instructors and the other members of my cohort. Then we took our first assessment test covering stuff we did in the precourse work.
-<br>After that they went through logistics and what our daily schedule would look like. From Monday afternoon we basically dove right into what would become our daily class routine.
+
+After that they went through logistics and what our daily schedule would look like. From Monday afternoon we basically dove right into what would become our daily class routine.
 
 ## The Cohort:
 When I arrived for orientation, I noticed a couple things:
