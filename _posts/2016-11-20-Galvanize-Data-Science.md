@@ -18,7 +18,7 @@ When I arrived for orientation, I noticed a couple things:
 
 + About half the group are women 
 + There's a wide age range among students 
-+ Students come from many differnet backgrounds 
++ Students come from many different backgrounds 
 
 Everyone is coming into the program with a different story for how they got here, at different points in their lives, and from different countries.
 
