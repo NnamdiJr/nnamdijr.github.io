@@ -11,11 +11,13 @@ Soooo... [Galvanize's Data Science Immersive (DSI)](http://www.galvanize.com/cou
 
 ## The Backstory
 Well, since about a year and a half ago when I landed in SF, I've been somewhat aimlessly hopping between contract data analysis gigs.
-<br>You see, I had my crosshairs set on a very small handful of companies (_just 2 to be exact_), but didn't feel my skills were good enough to get in... so the next best thing (_i.e. killing time while still being able to pay the bills_) was to take on contract gigs and learn what skills I could on my own, while waiting for the _right_ opportunity to present itself.
+
+You see, I had my crosshairs set on a very small handful of companies (_just 2 to be exact_), but didn't feel my skills were good enough to get in... so the next best thing (_i.e. killing time while still being able to pay the bills_) was to take on contract gigs and learn what skills I could on my own, while waiting for the _right_ opportunity to present itself.
 
 ## The Opportunity
 It took some time, but that opportunity finally came in the form of Airbnb's Data Science Associate (DSA) program. The program is basically a kind of partnership between Airbnb & Galvanize, where only **6** qualified individuals are selected from groups underrepresented in Data Science/Tech, and get a large scholarship to go through Galvanize's 3-month DSI program. Then afterwards, go into a 3-month apprenticeship on Airbnb's Data Science team. 
-<br>Yea, pretty awesome right?
+
+Yea, pretty awesome right?
 
 Oh, how did I hear about it you ask?
 <br>**Answer**: I was STALKING Airbnb's careers page for over a year of course!
@@ -25,9 +27,10 @@ About twice a week I poked around the [Data Science & Analytics Dept](https://ww
 
 ## The Interviews
 Like a [cheetah hyper-focused on chasing its prey](https://www.youtube.com/watch?v=NuyeVN7PuTM), I was locked-on to getting into the program, and I had to move fast, cuz remember, only 6 people get in (_literally thousands apply to any single Airbnb opening on LinkedIn alone and I assumed this would be no different_). 
-<br>After shooting off my applications (_well, not so much shooting off, the application essays and questions were things I had gone through in my head a million times before, so were easy to write_) the issue was now to pass the Galvanize and Airbnb interviews.
 
-<br>Galvanize sends prospective students a ton of prep material before the interviews, so for the future Galvanize DSI students reading this, rather than telling you exactly what goes on during each step of the interview I'll just say that if you go through all the prep material they send, **_thoroughly_**, you can definitely pass the interviews. The big caveat being, if you have not had any exposure to coding before, you should probably spend a good chunk of time on that before applying.
+After shooting off my applications (_well, not so much shooting off, the application essays and questions were things I had gone through in my head a million times before, so were easy to write_) the issue was now to pass the Galvanize and Airbnb interviews.
+
+Galvanize sends prospective students a ton of prep material before the interviews, so for the future Galvanize DSI students reading this, rather than telling you exactly what goes on during each step of the interview I'll just say that if you go through all the prep material they send, **_thoroughly_**, you can definitely pass the interviews. The big caveat being, if you have not had any exposure to coding before, you should probably spend a good chunk of time on that before applying.
 <br>Galvanize interview steps:
 <ul>
 <li>Initial take-home assignment</li>
