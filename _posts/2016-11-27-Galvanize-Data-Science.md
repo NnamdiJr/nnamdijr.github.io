@@ -28,9 +28,6 @@ Plotting on the other hand is pretty dam cool. Matplotlib and Seaborn are impres
 ## Weekly Calls:
 This week I also started weekly calls with my mentor/guide at Airbnb, who also went through Galvanize's DSI program (previously known as Zipfian).
 
-The calls will obviously help me prepare to enter Airbnb, but even more than that, it's **_unbelievably_** valuable to be able to ask someone who went through the program and is currently working in industry which topics are especially important in practice and also get specific examples of Airbnb's workflow for those topics.
-
-Pure gold.
-
+The calls will obviously help me prepare to enter Airbnb, but even more than that, it's **_unbelievably_** valuable to be able to ask someone who went through the program and is currently working in industry, which topics are the most important in practice AND also get specific examples of Airbnb's workflow for those topics. Pure gold.
 
 Til next week.
