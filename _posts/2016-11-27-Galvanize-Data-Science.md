@@ -23,7 +23,7 @@ We covered Sampling and Estimations ([MLE](https://en.wikipedia.org/wiki/Maximum
 
 Sampling/Estimations (_along with probability_) is one of those topics that I must have fallen asleep at during Stats101 in college since it feels like I have absolutely ZERO grounding in it. Definitely gonna need to put in some werk for this...
 
-Plotting on the other hand is pretty dam cool. Matplotlib] and Seaborn are impressive packages, and there's a ton you can do visualization wise with both. I think the eye for good visualizations and design is more an art than anything else, but as it's one of the few things in data science we can point to and show people (_and can actually look beautiful_) it's worth the practice to get a feel for it.
+Plotting on the other hand is pretty dam cool. Matplotlib and Seaborn are impressive packages, and there's a ton you can do visualization wise with both. I think the eye for good visualizations and design is more an art than anything else, but as it's one of the few things in data science we can point to and show people (_and can actually look beautiful_) it's worth the practice to get a feel for it.
 
 ## Weekly Calls:
 This week I also started weekly calls with my mentor/guide at Airbnb, who also went through Galvanize's DSI program (previously known as Zipfian).
