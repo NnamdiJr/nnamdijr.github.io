@@ -5,7 +5,7 @@ subtitle:   "DSI Week 03"
 date:       2016-12-03 23:34:53
 author:     "Nnamdi"
 header-img: ""
---
+---
 
 Things starting to get interesting this week...
 
