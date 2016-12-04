@@ -19,7 +19,9 @@ Plus this pictures is doubly hilarious when you understand what's going on:
 <img src="http://conversionxl.com/wp-content/uploads/2015/09/multiarmedbandit.jpg" alt="Multi-Arm Bandit">
 </p>
 
-With the linear regression classes we began doing what I'd call "_real data science_", the cool stuff. The individual and pair exercises were fun since we were tasked with fitting LR models to our data and improving them. It's pretty satisfying to see some crazy sh*t with your data & initial model, correctly interpret what's wrong with it, and then be able to make the right adjustments to improve it substantially.
+With the linear regression classes we began doing what I'd call "_real data science_", the cool stuff.
+
+The individual and pair exercises were fun since we were tasked with fitting LR models to our data and improving them. It's pretty satisfying to see some crazy sh*t with your data & initial model, correctly interpret what's wrong with it, and then be able to make the right adjustments to improve it substantially.
 
 Next week we are supposed to learn more modeling techniques and do our first case study, where we'll be working in teams to try to build the best model we can from start to finish.
 
