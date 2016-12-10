@@ -5,7 +5,7 @@ subtitle:   "DSI Week 04"
 date:       2016-10-03 05:35:17
 author:     "Nnamdi"
 header-img: ""
---
+---
 
 Jeez, week 04 already. Hard to believe the first month at Galvanize is already over. My data science all day [err'day](http://www.urbandictionary.com/define.php?term=Errday&defid=3252939) schedule is now just an afterthought...
 
