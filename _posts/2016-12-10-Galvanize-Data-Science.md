@@ -16,7 +16,7 @@ This week we dug even deeper into the machine learning world, learning about Cro
 
 Luckily, I'm very familiar with those topics thanks in large part to the phenomenal [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) by [Sebastian Raschka](https://twitter.com/rasbt). If I ever meet Sebastian in real life I'll give him a big ol' hug and buy him a couple boxes of Jamaican beef patties, that's how much I love his book.
 
-<p href="default.asp" align="center">
+<p href="https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning" align="center">
 <img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781783555130.png" alt="PyML">
 </p>
 
