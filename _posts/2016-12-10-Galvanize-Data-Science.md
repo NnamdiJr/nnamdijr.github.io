@@ -2,7 +2,7 @@
 layout:     post
 title:      "Galvanize Data Science"
 subtitle:   "DSI Week 04"
-date:       2016-12-03 05:35:17
+date:       2016-12-10 05:35:17
 author:     "Nnamdi"
 header-img: ""
 ---
