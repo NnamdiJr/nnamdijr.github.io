@@ -16,9 +16,9 @@ This week we dug even deeper into the machine learning world, learning about Cro
 
 Luckily, I'm very familiar with those topics thanks in large part to the phenomenal [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) by [Sebastian Raschka](https://twitter.com/rasbt). If I ever meet Sebastian in real life I'll give him a big ol' hug and buy him a couple boxes of Jamaican beef patties, that's how much I love his book.
 
-<p href="https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning" align="center">
+<p align="center"><a href="https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning">
 <img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781783555130.png" alt="PyML">
-</p>
+</a></p>
 
 I had tried watching classes on machine learning, reading other books, and a few other things to learn, but although I picked up little tidbits here and there it never really worked. With PyML though, the way Sebastian explained everything and then laid it out in code, it finally all "*clicked*" for me in a big way.
 
@@ -39,7 +39,8 @@ We were also allowed to bring a +1 to the party with us, so I brought my girlfri
 <br>Thanks for your endless understanding and support! [@Grace](https://www.facebook.com/grace.wei.7547)
 
 Additionally, I finally discovered the other Airbnb Data Science Associate in my cohort!
-<br>We talked about the DSI and our thoughts on moving on to Airbnb afterwards. It wass cool to be able to trade thoughts since our experience for the next 5+ months will be so similar.
+
+We talked about the DSI and our thoughts on moving on to Airbnb afterwards. It wass cool to be able to trade thoughts since our experience for the next 5+ months will be so similar.
 
 On another note, the few other Airbnb Data Science Associate scholarship winners I've met have told me they are very reluctant to reveal that they got the scholarship.
 
@@ -60,13 +61,11 @@ My team had some really great ideas, that were confirmed by instructors at the e
 This was definitely the most important lesson of this week, and is something to keep in mind for the next case study and when working in industry side-by-side with a team of other people.
 
 # Sharing is Caring:
-This post is getting a little long, so this is the last thing.
-
 I've been meaning to gather links to the websites and blogs of other students in my cohort(19/20) who are also writing about their experience at Galvanize.
 
 Reading previous DSI student's blogs was a lot of help getting an idea of what to expect in the program, so I imagine it'll be doubly helpful for future students to read other perspectives on the program from people going through it at the same time.
 
-So first up is Jenny over at [**pltalot**](http://pltalot.com]), who has a great collection of analysis projects and is also writing about her thoughts on the DSI. So go check [her blog](http://pltalot.com) out!
+So first up is Jenny over at [**pltalot**](http://pltalot.com), who has a great collection of analysis projects and is also writing about her thoughts on the DSI. So go check [her blog](http://pltalot.com) out!
 
 I'll go back and add all the links I get to my first and final posts on Galvanize, which I'm guessing will be the ones most prospective students will read.
 
