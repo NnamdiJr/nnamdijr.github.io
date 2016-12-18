@@ -12,11 +12,9 @@ Week 05, still going strong.
 # Week 05 Topics:
 Supervised learning was the name of the game this week. Decision Trees, k-Nearest Neighbors (kNN), Random Forests, Bagging/Boosting, and Support Vector Machines (SVMs).
 
-Quote of the week:
-
 > "You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."
 
-(_watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
+(_Quote of the week. Watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
 
 Again, my Python Machine Learning book was my best friend here. 
 
