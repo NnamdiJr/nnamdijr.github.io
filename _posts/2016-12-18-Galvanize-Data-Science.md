@@ -15,7 +15,8 @@ Supervised learning was the name of the game this week. Decision Trees, k-Neares
 Quote of the week:
 
 > "You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."
-<br>(_watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
+
+(_watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
 
 Again, my Python Machine Learning book was my best friend here. 
 
@@ -68,7 +69,7 @@ For me, the lessons learned center around "_business thinking_".
 
 Coming up with a well defined business question and the tag-along assumptions about your customers and profits/costs when you look at the data was probably the most important part of this case study.
 
-![Alt](/img/GALVANIZE CASE STUDY2.jpg "Profit Curves")
+![Alt](/img/GALVANIZE CASE STUDY2.jpg "Profit Curves"){: .center-image }
 
 Your answers to these questions could lead you in all sorts of directions when doing EDA and building your model. I'm not a very business-y thinker, so building some intuition for this would be a good idea, methinks.
 
