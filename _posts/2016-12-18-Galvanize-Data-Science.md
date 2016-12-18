@@ -12,8 +12,7 @@ Week 05, still going strong.
 # Week 05 Topics:
 Supervised learning was the name of the game this week. Decision Trees, k-Nearest Neighbors (kNN), Random Forests, Bagging/Boosting, and Support Vector Machines (SVMs).
 
-Quote of the week:
-
+Quote of the week:<br>
 > "You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."
 
 (_watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
@@ -46,8 +45,8 @@ I had heard a lot of stories from people who have been to Airbnb's HQ before... 
 
 ...like seriously, the interior designer of that place (_[or was it Brian, Joe, and Nathan?](https://www.airbnb.com/about/founders)_) must've been up on some higher-dimensional stuff, [for real](http://www.urbandictionary.com/define.php?term=for+real&defid=266204).
 
-(There should be pic of the office somewhere here, but I was too chicken to take one cuz I didn't wanna risk looking like a tech [otaku](https://en.wikipedia.org/wiki/Otaku) having a [fanboygasm](http://www.urbandictionary.com/define.php?term=Fanboygasm). 
-<br>You can [Google it](https://www.google.com/search?q=airbnb+hq&source=lnms&tbm=isch&sa), buuuut.. pics don't do it justice.)
+(_There should be pic of the office somewhere here, but I was too chicken to take one cuz I didn't wanna risk looking like a tech [otaku](https://en.wikipedia.org/wiki/Otaku) having a [fanboygasm](http://www.urbandictionary.com/define.php?term=Fanboygasm)_. 
+<br>_You can [Google it](https://www.google.com/search?q=airbnb+hq&source=lnms&tbm=isch&sa), buuuut.. pics don't do it justice._)
  
 Anyway.. I met up with my mentor, and some of the other Data Scientists on the team. 
 
