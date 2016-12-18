@@ -13,10 +13,10 @@ Week 05, still going strong.
 Supervised learning was the name of the game this week. Decision Trees, k-Nearest Neighbors (kNN), Random Forests, Bagging/Boosting, and Support Vector Machines (SVMs).
 
 Quote of the week:
-<p style="text-align: center;">
+
 > "You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."
 <br>(_watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
-</p>
+
 Again, my Python Machine Learning book was my best friend here. 
 
 But many Learning Theory circles say a gestaltist approach is the best way to learn something, that is, read about it from as many different sources as you can, which has the effect of filling in details one source might have left out and giving you the full range of perspectives on the topic.
@@ -24,7 +24,7 @@ But many Learning Theory circles say a gestaltist approach is the best way to le
 Just like if you look at a potato from one angle it may [look like Channing Tatum](https://www.buzzfeed.com/lyapalater/potatoes-that-look-like-channing-tatum?utm_term=.om97A0MbM#.kt4PNbJOJ), but then you look at it from a different angle and realize that it unfortunately is really just a potato.
 
 <p align="center"><a href="https://www.buzzfeed.com/lyapalater/potatoes-that-look-like-channing-tatum?utm_term=.om97A0MbM#.kt4PNbJOJ">
-<img src=img/TatumPotato.png alt="TatumPotatoL">
+<img src=https://img/TatumPotato.png alt="TatumPotatoL">
 </a></p>
 
 Coincidentally very similar to how ensembles in machine learning work!
