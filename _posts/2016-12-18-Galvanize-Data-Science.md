@@ -12,7 +12,8 @@ Week 05, still going strong.
 # Week 05 Topics:
 Supervised learning was the name of the game this week. Decision Trees, k-Nearest Neighbors (kNN), Random Forests, Bagging/Boosting, and Support Vector Machines (SVMs).
 
-Quote of the week:<br>
+Quote of the week:
+
 > "You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."
 <br>(_watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
 
@@ -58,9 +59,9 @@ Friday we did our second case study, on Churn Prediction.
 
 The challenge this time was less competitive and more business oriented, with the objective being to come up with some actionable insights for a hypothetical company to take to retain customers, given a chunk of raw data. (_being intentionally vague about this so that Galvanize can reuse these cases in the future_)
 
-The teams were selected randomly, and my teammates were all strong coders (_not including me =)_) so things for the most part were a lot smoother than last week. I imagine it was probably the same for other groups too, since everyone must've learned some major do's and don'ts from the previous case study. 
+The teams were selected randomly, and my teammates were all strong coders (_not including me =)_ ) so things for the most part were a lot smoother than last week. I imagine it was probably the same for other groups too, since everyone must've learned some major do's and don'ts from the previous case study. 
 
-For me, the lessons learned center around "business thinking".
+For me, the lessons learned center around "_business thinking_".
 
 Coming up with a well defined business question and the tag-along assumptions about your customers and profits/costs when you look at the data was probably the most important part of this case study.
 
