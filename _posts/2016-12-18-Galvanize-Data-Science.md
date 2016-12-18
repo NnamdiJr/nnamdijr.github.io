@@ -56,18 +56,24 @@ A little frightening because you realize how much there is for you to learn stil
 # Churn Prediction Case Study:
 Friday we did our second case study, on Churn Prediction.
 
-The challenge this time was less competitive and more business oriented, with the objective being to come up with some actionable insights for a hypothetical company to take to retain customers, given a chunk of raw data. (being intentionally vague about this so that Galvanize can reuse these cases in the future)
+The challenge this time was less competitive and more business oriented, with the objective being to come up with some actionable insights for a hypothetical company to take to retain customers, given a chunk of raw data. (_being intentionally vague about this so that Galvanize can reuse these cases in the future_)
 
-The teams were selected randomly, and my teammates were all strong coders (not including me, lol) so things for the most part were a lot smoother than last week. I imagine it was probably the same for other groups too, since everyone must've learned some major do's and don'ts from the previous case study. 
+The teams were selected randomly, and my teammates were all strong coders (_not including me =)_) so things for the most part were a lot smoother than last week. I imagine it was probably the same for other groups too, since everyone must've learned some major do's and don'ts from the previous case study. 
 
-For me, the lessons learned center around "business thinking". Coming up with a well defined business question and the tag-along assumptions about your customers and profits/costs when you look at the data was probably the most important part of this case study. Your answers to these questions could lead you in all sorts of directions when doing EDA and building your model. I'm not a very business-y thinker, so building some intuition for this would be smart.
+For me, the lessons learned center around "business thinking".
 
-A book that's been sitting on my shelf for way too long that would probably help me out on this is [Cracking the PM Interview](https://www.amazon.com/dp/B00ISYMUR6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) same author as legendary [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=asap_bc?ie=UTF8). Data Scientists aren't PMs but I think a lot of the product understanding and business-think needed overlaps.
+Coming up with a well defined business question and the tag-along assumptions about your customers and profits/costs when you look at the data was probably the most important part of this case study.
+
+Your answers to these questions could lead you in all sorts of directions when doing EDA and building your model. I'm not a very business-y thinker, so building some intuition for this would be a good idea, methinks.
+
+A book that's been sitting on my shelf for way too long that would probably help me out on this is [Cracking the PM Interview](https://www.amazon.com/dp/B00ISYMUR6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) same author as the legendary [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=asap_bc?ie=UTF8). 
+
+Data Scientists aren't PMs but I think a lot of the product understanding and "business-think" needed overlaps.
 
 Once again, lots of fun-packed learning working on these case studies.
 
 # Coming up...
-Next week is our last week before breaking for the holidays. It'll only be a 4-day week, but two of the most fun topics, Scraping and NLP, will be covered so good times will be had.
+Next week is our last week before breaking for the holidays. It'll only be a 4-day week, but two of the most fun topics, Scraping and NLP, will be covered so plenty of good times will be had.
 
 Til next week. Onward and Forward!
 
