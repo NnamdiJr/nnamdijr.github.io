@@ -69,7 +69,7 @@ For me, the lessons learned center around "_business thinking_".
 
 Coming up with a well defined business question and the tag-along assumptions about your customers and profits/costs when you look at the data was probably the most important part of this case study.
 
-![Alt](/img/GALVANIZE CASE STUDY2.jpg "Profit Curves"){: .center-image }
+![Alt](/img/Galvanize_Case_Study02.jpg "Profit Curves")
 
 Your answers to these questions could lead you in all sorts of directions when doing EDA and building your model. I'm not a very business-y thinker, so building some intuition for this would be a good idea, methinks.
 
