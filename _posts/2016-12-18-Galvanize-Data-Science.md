@@ -11,9 +11,7 @@ Week 05, still going strong.
 
 # Week 05 Topics:
 Supervised learning was the name of the game this week. Decision Trees, k-Nearest Neighbors (kNN), Random Forests, Bagging/Boosting, and Support Vector Machines (SVMs).
-
-> "You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."
-
+> <br>"You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."<br>
 (_Quote of the week. Watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
 
 Again, my Python Machine Learning book was my best friend here. 
@@ -56,8 +54,8 @@ Although I was worried I wouldn't "_fit in_", mainly cuz I'd say something dumb 
  
 A little frightening because you realize how much there is for you to learn still, but also exciting getting a glimpse of the caliber of people I'll be working with during the apprenticeship after Galvanize. Hella [dope](http://www.urbandictionary.com/define.php?term=Dope).
 
-(_The foodies are wondering what the food there is like right? 
-<br>I'd say somewhere between A- or B+. But that's only one lousy data point, so YMMV_)
+<sub>_The foodies are wondering what the food there is like right? 
+<br>I'd say somewhere between A- or B+. But that's only one lousy data point, so YMMV_)</sub>
 
 # Churn Prediction Case Study:
 Friday we did our second case study, on Churn Prediction.
