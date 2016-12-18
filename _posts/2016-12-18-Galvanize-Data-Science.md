@@ -12,7 +12,7 @@ Week 05, still going strong.
 # Week 05 Topics:
 Supervised learning was the name of the game this week. Decision Trees, k-Nearest Neighbors (kNN), Random Forests, Bagging/Boosting, and Support Vector Machines (SVMs).
 
-Quote of the week:<br>
+Quote of the week:
 > "You down with [OOB](https://en.wikipedia.org/wiki/Out-of-bag_error)?... Yea you know me."
 
 (_watch [this vid](https://www.youtube.com/watch?v=6xGuGSDsDrM) if you don't get the reference_)
@@ -45,8 +45,11 @@ I had heard a lot of stories from people who have been to Airbnb's HQ before... 
 
 ...like seriously, the interior designer of that place (_[or was it Brian, Joe, and Nathan?](https://www.airbnb.com/about/founders)_) must've been up on some higher-dimensional stuff, [for real](http://www.urbandictionary.com/define.php?term=for+real&defid=266204).
 
-(_There should be pic of the office somewhere here, but I was too chicken to take one cuz I didn't wanna risk looking like a tech [otaku](https://en.wikipedia.org/wiki/Otaku) having a [fanboygasm](http://www.urbandictionary.com/define.php?term=Fanboygasm)_. 
-<br>_You can [Google it](https://www.google.com/search?q=airbnb+hq&source=lnms&tbm=isch&sa), buuuut.. pics don't do it justice._)
+<p align="center">
+<img src="https://www.paystreamadvisors.com/wp-content/uploads/2015/04/bnbhq2.jpg" alt="Airbnb HQ">
+</p>
+
+(_Not my pic, and doesn't do it justice. I was too chicken to take one since I didn't wanna risk looking like a tech [otaku](https://en.wikipedia.org/wiki/Otaku) having a [fanboygasm](http://www.urbandictionary.com/define.php?term=Fanboygasm) =/_ ) 
  
 Anyway.. I met up with my mentor, and some of the other Data Scientists on the team. 
 
@@ -54,7 +57,7 @@ Although I was worried I wouldn't "_fit in_", mainly cuz I'd say something dumb 
  
 A little frightening because you realize how much there is for you to learn still, but also exciting getting a glimpse of the caliber of people I'll be working with during the apprenticeship after Galvanize. Hella [dope](http://www.urbandictionary.com/define.php?term=Dope).
 
-(_You foodies are wondering what the food there is like right? 
+(_The foodies are wondering what the food there is like right? 
 <br>I'd say somewhere between A- or B+. But that's only one lousy data point, so YMMV_)
 
 # Churn Prediction Case Study:
@@ -74,7 +77,7 @@ Your answers to these questions could lead you in all sorts of directions when d
 
 A book that's been sitting on my shelf for way too long that would probably help me out on this is [Cracking the PM Interview](https://www.amazon.com/dp/B00ISYMUR6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) same author as the legendary [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=asap_bc?ie=UTF8). 
 
-Data Scientists aren't PMs but I think a lot of the product understanding and "business-think" needed overlaps.
+Data Scientists aren't PMs but I think a lot of the product understanding and "_business-think_" needed overlaps.
 
 Once again, lots of fun-packed learning working on these case studies.
 
