@@ -41,8 +41,8 @@ I had heard a lot of stories from people who have been to Airbnb's HQ before... 
 
 ...like seriously, the interior designer of that place (_[or was it Brian, Joe, and Nathan?](https://www.airbnb.com/about/founders)_) must've been up on some higher-dimensional stuff, [for real](http://www.urbandictionary.com/define.php?term=for+real&defid=266204).
 
-[There should be pic of the office somewhere here, but I was too chicken to take one cuz I didn't wanna risk looking like a tech [otaku](https://en.wikipedia.org/wiki/Otaku) having a [fanboygasm](http://www.urbandictionary.com/define.php?term=Fanboygasm). 
-<br>You can Google it, buuuut.. pics don't do it justice.]
+(There should be pic of the office somewhere here, but I was too chicken to take one cuz I didn't wanna risk looking like a tech [otaku](https://en.wikipedia.org/wiki/Otaku) having a [fanboygasm](http://www.urbandictionary.com/define.php?term=Fanboygasm). 
+<br>You can [Google it](https://www.google.com/search?q=airbnb+hq&source=lnms&tbm=isch&sa), buuuut.. pics don't do it justice.)
  
 Anyway.. I met up with my mentor, and some of the other Data Scientists on the team. 
 
@@ -51,9 +51,9 @@ Although I was worried I wouldn't "_fit in_", mainly cuz I'd say something dumb 
 A little frightening because you realize how much there is for you to learn still, but also exciting getting a glimpse of the caliber of people I'll be working with during the apprenticeship after Galvanize. Hella [dope](http://www.urbandictionary.com/define.php?term=Dope).
 
 (_You foodies are wondering what the food there is like right? 
-<br>I'd say somewhere between A- & B+. But that's only one data point, so YMMV_)
+<br>I'd say somewhere between A- or B+. But that's only one lousy data point, so YMMV_)
 
-#Churn Prediction Case Study:
+# Churn Prediction Case Study:
 Friday we did our second case study, on Churn Prediction.
 
 The challenge this time was less competitive and more business oriented, with the objective being to come up with some actionable insights for a hypothetical company to take to retain customers, given a chunk of raw data. (being intentionally vague about this so that Galvanize can reuse these cases in the future)
