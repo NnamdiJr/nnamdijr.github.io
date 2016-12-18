@@ -22,9 +22,9 @@ But many Learning Theory circles say a gestaltist approach is the best way to le
 
 Just like if you look at a potato from one angle it may [look like Channing Tatum](https://www.buzzfeed.com/lyapalater/potatoes-that-look-like-channing-tatum?utm_term=.om97A0MbM#.kt4PNbJOJ), but then you look at it from a different angle and realize that it unfortunately is really just a potato.
 
-<p align="center"><a href="https://www.buzzfeed.com/lyapalater/potatoes-that-look-like-channing-tatum?utm_term=.om97A0MbM#.kt4PNbJOJ">
+<p align="center">
 <img src=/img/TatumPotato.png alt="TatumPotatoL">
-</a></p>
+</p>
 
 Coincidentally very similar to how ensembles in machine learning work!
 
