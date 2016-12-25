@@ -48,9 +48,9 @@ We were given access to a Github repo with an overview for building and presenti
  
 Earlier in the week we had an informal meetup with Galvanize's [Web Development](https://new.galvanize.com/san-francisco/web-development) students who, as luck would have it, are building and presenting their capstone projects at the same time as us Data Science students. 
 
-That mean, the two groups have the rare opportunity to collaborate on projects. Data Science students doing the data and algorithmic parts on the back-end and Web Dev students creating the slick front-end.
+That means, the two groups have the rare opportunity to collaborate on projects. Data Science students doing the data and algorithmic parts on the back-end and Web Dev students creating the slick front-end.
 
-I thought this was a great idea and that it would be really cool to work with a web dev on an idea, but during the meetup it was clear pretty much everyone in both groups had no thoughts on what they wanted to do, and the discussions were very, very vague. No surprise.
+I thought this was a great idea and that it would be really cool to work with a web dev on a project, but during the meetup it was clear pretty much everyone in both groups had no thoughts on what they wanted to do, and the discussions were very, very vague. No surprise.
 
 It was probably too early for that kind of powwow.. a better time would have been one of the days shortly after both groups had to submit their initial project proposals. 
 <br>Or better yet, create an open document where students write their name and idea, and if someone is interested in working with you on your idea, they can match up with you in the doc or get in touch some other way. That could be something..
