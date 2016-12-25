@@ -64,7 +64,7 @@ After brainstorming for a while, you'd be surprised how tough it is to find idea
 
 I'm hoping one of my two ideas passes the project proposal test, cuz I highly doubt I can come up with a third! 
 
-# Holiday Break
+# Holiday Break:
 
 No Galvanize classes next week, so probably no post either.
 
