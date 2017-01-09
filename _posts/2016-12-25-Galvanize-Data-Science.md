@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Galvanize Data Science"
-subtitle:   "DSI Week 06"
+title:      "That Boy Needs Some NLP"
+subtitle:   "Galvanize Data Science Week 06"
 date:       2016-12-25 13:05:52
 author:     "Nnamdi"
 header-img: ""
