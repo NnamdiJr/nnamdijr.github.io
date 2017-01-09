@@ -45,7 +45,7 @@ The case study was hard.
 
 We were given a bunch of user rating data and our job was to build the best recommender we could.
 
-For my team, it seemed like no matter how much feature engineering ninjitsu we tried, we couldn't get our model to improve. 
+For my team, it seemed like no matter how much feature engineering ninjitsu we tried, we couldn't get our model to improve, and our vanilla item-item similarity recommender in [GraphLab](https://turi.com/) ended up giving us our best score.
 
 Only a light slap in the face.
 
@@ -55,27 +55,28 @@ The bottom line, shared amongst many groups, was that building a _good_ recommen
 
 We submitted our 3 preliminary proposals for our capstone projects this week.
 
-As I guessed [before the holiday](http://nnamdioffor.com/2016/12/25/Galvanize-Data-Science/), I couldn't think of a respectable third project idea (_not that I tried very hard_) so I only submitted two:
+As I guessed [before the holiday](http://nnamdioffor.com/2016/12/25/Galvanize-Data-Science/), I couldn't think of a respectable third project idea (_not that I tried very hard_), so I only submitted two:
 
 + A product oriented idea for de-spamming the housing ads section on Craigslist and creating a web app for it
 + A more exploratory idea looking at how different urban slang becomes popular
 
 As luck would have it, I actually got feedback on my ideas while writing up this post.
  
-Found out my first idea "_although interesting_" was rejected due to concerns about collecting and labeling data. Bummer. 
-<br>(_maybe something to do as my own personal project?_)
+Found out my first idea "_although interesting_" was rejected due to concerns about collecting and labeling data. 
+
+Bummer. (_maybe something to do as my own personal project?_)
  
 Good news though, is that I got the go ahead to move forward with my back-up idea!
 
 Although it falls more along the lines of a "_toy_" project, it's something I've wanted to investigate for a while and should be a lot of fun to present!
 
-# Blog.prettify()
+# Blog.Prettify()
 
 I noticed the titles I've selected for each week's post are very redundant and don't tell you anything about the content of the post, which makes the main blog page look... in the wise words of my gf... "_lame as hell_".
  
 ![Alt](/img/Old_New.png "Old to New")
  
-(_Lame as hell on the left. New-new on the right._)
+(_Lame as hell on the left. Dat new new on the right._)
 
 So I went back and changed up the titles to be a bit more descriptive and worthy of clicking on. I'd say it looks better.
 
