@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Galvanize & Airbnb"
-subtitle:   "DSI Week 0: Precourse"
+subtitle:   "Galvanize Data Science Week 0: Precourse"
 date:       2016-11-12 10:28:10
 author:     "Nnamdi"
 header-img: "img/Galv_AirB.jpg"
