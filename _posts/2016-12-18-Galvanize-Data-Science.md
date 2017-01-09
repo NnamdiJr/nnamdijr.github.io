@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Galvanize Data Science"
-subtitle:   "DSI Week 05"
+title:      "Supervise That Learning"
+subtitle:   "Galvanize Data Science Week 05"
 date:       2016-12-18 13:28:28
 author:     "Nnamdi"
 header-img: ""
