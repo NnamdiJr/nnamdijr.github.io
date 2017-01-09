@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Galvanize Data Science"
-subtitle:   "DSI Week 02"
+title:      "Plots Born In The Sea"
+subtitle:   "Galvanize Data Science Week 02"
 date:       2016-11-27 22:24:42
 author:     "Nnamdi"
 header-img: ""
