@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Galvanize Data Science"
-subtitle:   "DSI Week 04"
+title:      "Regressing On Yo' Profit Curve"
+subtitle:   "Galvanize Data Science Week 04"
 date:       2016-12-10 05:35:17
 author:     "Nnamdi"
 header-img: ""
