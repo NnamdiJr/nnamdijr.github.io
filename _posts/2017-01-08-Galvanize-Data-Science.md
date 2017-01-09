@@ -29,7 +29,7 @@ Seriously though. The goal is to sound "_smart_", like I really know what I'm ta
 
 My approach for each week's post then, has been to just write some thoughts and general takeaways filtered through my very muddled world lens.
 
-So to you _Mr/Ms. elite-data-scientist-or-future-employer-or-galvanize-student-or-random-ass-why-the-heck-are-you-reading-my-blog-person_, although I don't talk very deeply about it, I hope you'll be kind enough to give me the benefit of the doubt, since I have enough interest to write these posts every darn week, that maybe... just maybe.. I actually do know a _teeny little bit_ about those topics in the first sentence.
+So to you _Mr/Ms. elite-data-scientist-or-future-employer-or-galvanize-student-or-random-ass-why-the-heck-are-you-reading-my-blog-person_, although I don't talk very deeply about it, I hope you'll be kind enough to give me the benefit of the doubt, since I have enough interest to write these posts every darn week, that maybe... just maybe... I actually do know a _teeny little bit_ about those topics in the first sentence.
 
 That said, huge revelation this week. 
 
@@ -72,7 +72,7 @@ Although it falls more along the lines of a "_toy_" project, it's something I've
 
 # Blog.Prettify()
 
-I noticed the titles I've selected for each week's post are very redundant and don't tell you anything about the content of the post, which makes the main blog page look... in the wise words of my gf... "_lame as hell_".
+I noticed the titles I've selected for each week's post are very redundant and don't tell you anything about the content of the post, which makes the [main blog page](http://nnamdioffor.com/blog) look... in the wise words of my gf... "_lame as hell_".
  
 ![Alt](/img/Old_New.png "Old to New")
  
