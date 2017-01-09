@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Galvanize Data Science"
-subtitle:   "DSI Week 01"
+title:      "Lay of the Land"
+subtitle:   "Galvanize Data Science Week 01"
 date:       2016-11-20 23:06:18
 author:     "Nnamdi"
 header-img: ""
