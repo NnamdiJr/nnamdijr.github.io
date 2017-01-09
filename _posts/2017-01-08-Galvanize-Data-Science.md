@@ -7,7 +7,8 @@ author:     "Nnamdi"
 header-img: ""
 ---
 
-Aaaaaaaaand we're back at it again in a new year, feeling renewed, large and in charge like Sextina Aquafinaaaaaaaa bay-bayyyy~ (_my favorite hyper-energetic character from BoJack Horseman. Don't ask me why._)
+Aaaaaaaaand we're back at it again in a new year, feeling renewed, large and in charge like Sextina Aquafinaaaaaaaa bay-bayyyy~ 
+<br>(_my favorite hyper-energetic character from BoJack Horseman. Don't ask me why._)
 
 ![Alt](/img/Sextina_Aquafina.gif "Sextina Aquafina")
 
@@ -28,11 +29,13 @@ Seriously though. The goal is to sound "_smart_", like I really know what I'm ta
 
 My approach for each week's post then, has been to just write some thoughts and general takeaways filtered through my very muddled world lens.
 
-So to you _Mr/Ms. elite-data-scientist-or-future-employer-or-galvanize-student-or-random-ass-why-the-heck-are-you-reading-my-blog-person_, although I don't talk very deeply about it, I hope you'll be kind enough to give me the benefit of the doubt, since I have enough interest to write these posts every darn week, that maybe... just maybe.. I actually do know <sub>a teeny little bit</sub> about those topics in the first sentence.
+So to you _Mr/Ms. elite-data-scientist-or-future-employer-or-galvanize-student-or-random-ass-why-the-heck-are-you-reading-my-blog-person_, although I don't talk very deeply about it, I hope you'll be kind enough to give me the benefit of the doubt, since I have enough interest to write these posts every darn week, that maybe... just maybe.. I actually do know a _teeny little bit_ about those topics in the first sentence.
 
-That said, huge revelation this week was how PCA/SVD (Principal Component Analysis / Singular Value Decomposition), NMF (Non-negative Matrix Factorization), and LDA (Latent Dirichlect Allocation) are all related.
+That said, huge revelation this week. 
 
-Before this week's classes I honestly thought that all of these were completely different techniques and used for very different reasons (_is my naivete showing yet?_), turns out you can tie them together simply with an adjustment of the underlying assumptions that are made and the cost function that's used.
+PCA/SVD (Principal Component Analysis / Singular Value Decomposition), NMF (Non-negative Matrix Factorization), and LDA (Latent Dirichlect Allocation) are all related! (_[dun dun duuuuun](https://www.youtube.com/watch?v=cphNpqKpKc4)_)
+
+Before this week's classes I honestly thought that all of these were completely different techniques and used for very different reasons (_is my naivete showing yet?_), turns out you can tie them together simply with a slight adjustment of the underlying assumptions and the cost function that's used.
 
 Mind blown.
 
@@ -42,7 +45,9 @@ The case study was hard.
 
 We were given a bunch of user rating data and our job was to build the best recommender we could.
 
-For my team, it seemed like no matter how much feature engineering ninjitsu we tried, we couldn't get our model to improve. Like a light slap in the face.
+For my team, it seemed like no matter how much feature engineering ninjitsu we tried, we couldn't get our model to improve. 
+
+Only a light slap in the face.
 
 The bottom line, shared amongst many groups, was that building a _good_ recommender is tough.
 
@@ -57,7 +62,8 @@ As I guessed [before the holiday](http://nnamdioffor.com/2016/12/25/Galvanize-Da
 
 As luck would have it, I actually got feedback on my ideas while writing up this post.
  
-Found out my first idea "_although interesting_" was rejected due to concerns about collecting and labeling data. Bummer. (_maybe something to do as my own personal project?_)
+Found out my first idea "_although interesting_" was rejected due to concerns about collecting and labeling data. Bummer. 
+<br>(_maybe something to do as my own personal project?_)
  
 Good news though, is that I got the go ahead to move forward with my back-up idea!
 
@@ -65,7 +71,7 @@ Although it falls more along the lines of a "_toy_" project, it's something I've
 
 # Blog.prettify()
 
-I noticed the titles I've selected for each week's post are very redundant and don't tell you anything about the content of the post, which makes the main blog page look.. in the wise words of my gf... "_lame as hell_".
+I noticed the titles I've selected for each week's post are very redundant and don't tell you anything about the content of the post, which makes the main blog page look... in the wise words of my gf... "_lame as hell_".
  
 ![Alt](/img/Old_New.png "Old to New")
  
@@ -83,23 +89,27 @@ On the first day back from break, I found out the only other black student in th
 
 It would be sad for any student who got into [Galvanize's Data Science Immersive](http://www.galvanize.com/courses/data-science/) and made it so far, to drop-out, but this one for me was particularly painful to hear.
 
-I had been meeting up with him before class almost every morning to chat and prepare a little. He had told me he was struggling, not only with the material, but also feeling at odds with some instructors and other students. In addition, he moved alone to SF for the program and lived alone, which he mentioned made him feel pretty isolated.
+I had been meeting up with him before class almost every morning to chat and prepare a little.
+
+He had told me he was struggling, not only with the material, but also feeling at odds with some instructors and other students. In addition, he moved alone to SF for the program and lived alone, which he mentioned made him feel pretty isolated.
 
 I tried to give him some supportive advice and was always willing to help him with questions he had. But beyond that 1 hour or so in the morning, I didn't do anything.
 
-I never, at the end of the day, said "hey, let's go over that thing from earlier today..", or "Yo, you wanna study for that assessment tomorrow?". And probably worst of all, I never invited him over to otherwise hangout outside of class.
+I never, at the end of the day, said "_hey, let's go over that thing from earlier today.._", or "_Yo, you wanna study for that assessment tomorrow?_". 
+<br>And probably worst of all, I never invited him over to otherwise hangout outside of class.
 
-The last few days before the holidays, he seemed pretty distant and I knew something was off. So when I came in on Tuesday morning and didn't see him there, I already could sense what had happened and felt the guilt building up.
+The last few days before the holidays, he seemed pretty distant and I knew something was off. So when I came in on Tuesday morning and didn't see him there, I already could sense what had happened and felt the guilt building up...
 
 No excuses.
 
-I of all people should know just how important having at least one person, a linchpin of sorts, can be in deciding to keep going or giving up. During the toughest parts of my life I've always lucked out and had at least one person to lean on.
+I of all people should know just how important having at least one person, a linchpin, can be in deciding to keep going or giving up. During the toughest parts of my life I've always lucked out and had at least one person to lean on.
 
-Now I can't ignore the voice in my head saying _"So you're telling me you're [in a program](http://nnamdioffor.com/2016/11/12/Galvanize-Airbnb/) tailored specifically to introduce more underrepresented minorities into Data Science/Tech, but you just let one slip like that?... Well, nice fucking job."_
+Now I can't ignore the voice in my head saying _"So you're telling me you're [in a program](http://nnamdioffor.com/2016/11/12/Galvanize-Airbnb/) tailored specifically to introduce more underrepresented minorities into Data Science & Tech, but you just let one slip like that?... Well, nice fucking job."_
 
 That feeling that you could've done more, when it's already too late... yea, that feeling.
 
 It sucks.
 
+<br>
 
 Til next week. 
