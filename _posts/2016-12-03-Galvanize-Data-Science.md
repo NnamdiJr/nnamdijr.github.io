@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Galvanize Data Science"
-subtitle:   "DSI Week 03"
+title:      "Bandits With Multiple Arms"
+subtitle:   "Galvanize Data Science Week 03"
 date:       2016-12-03 23:34:53
 author:     "Nnamdi"
 header-img: ""
