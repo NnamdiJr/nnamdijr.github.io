@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Lay of the Land"
+title:      "Lay Of The Land"
 subtitle:   "Galvanize Data Science Week 01"
 date:       2016-11-20 23:06:18
 author:     "Nnamdi"
