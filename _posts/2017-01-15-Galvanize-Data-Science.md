@@ -66,16 +66,16 @@ One was _Haseeb Qureshi_, who's superb blog posts on ["_How to Break Into the Te
 The usual eye-catching line is that he negotiated his starting salary from **120k** to **250k**, but there's a lot more to be gained than how to negotiate if you read through his posts.
 <br>(_does anyone else cringe when they re-read [extremley cheesy comments they wrote](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#comment-2973) a half year ago?_)
 
-The other was _Courtland Allen_, the guy behind [IndieHackers](https://www.indiehackers.com), a website collecting the learning and experiences of founders of many different money-making apps that we've never heard of since they are too small to ever be talked about by the tech press.
+The other was _Courtland Allen_, the guy behind [IndieHackers](https://www.indiehackers.com), a website collecting the learning and experiences of founders of many different money-making apps that we've never heard of (_since they are too small to ever be talked about by the tech press_).
 
-I've been hooked on the IndieHackers site since it launched, because you never hear the stories of these "_lifestyle_" business founders and... real talk, who wouldn't want to make an extra couple [stacks](http://www.urbandictionary.com/define.php?term=stack) or even benjamins each month on a side project? (_matter fact, my 2017 new years resolution_).
+I've been hooked on the IndieHackers site since it launched, because you never hear the stories of these "_lifestyle_" business founders and... [real talk](http://www.urbandictionary.com/define.php?term=real+talk), who wouldn't want to make an extra couple [stacks](http://www.urbandictionary.com/define.php?term=stack) or even benjamins each month on a side project? (_matter fact, my 2017 new years resolution_).
 
-Meeting these two face to face after the talks and picking their brains, was probably be the highest value 30 minutes I will have this month.
+Meeting these two face to face after the talks and picking their brains, was probably the highest value 30 minutes I will have this month.
 
 I wish I could go to more of these meetups, at least as often as I used to, but usually by 7pm when the day at Galvanize is over, all I really want to do is go home and get something tasty in my stomach.
 
 So the lesson to you reading is, check [Meetup.com](https://www.meetup.com/) for interesting groups and meetups (_don't let lame event titles throw you off, always look at the speakers!_) and go to them when you can.
 
-Cuz you never know which encounter could lead to your next big hustle..
+Cuz you never know which encounter could lead to your next big hustle...
 
-Le's get it!
+Let's get it!
