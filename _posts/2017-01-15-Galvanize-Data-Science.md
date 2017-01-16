@@ -64,7 +64,7 @@ The title of the meetup (_something about Antifraud Infrastructure.._) almost pu
 One was _Haseeb Qureshi_, who's superb blog posts on ["_How to Break Into the Tech Industry_"](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) will inspire anyone on the job hunting grind. 
 
 The usual eye-catching line is that he negotiated his starting salary from **120k** to **250k**, but there's a lot more to be gained than how to negotiate if you read through his posts.
-<br>(_does anyone else cringe when they re-read [extremley cheesy comments they wrote](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#comment-2973) a half year ago?_)
+<br>(_does anyone else cringe when they re-read [extremeley cheesy comments they wrote](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#comment-2973) a half year ago?_)
 
 The other was _Courtland Allen_, the guy behind [IndieHackers](https://www.indiehackers.com), a website collecting the learning and experiences of founders of many different money-making apps that we've never heard of (_since they are too small to ever be talked about by the tech press_).
 
