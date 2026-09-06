@@ -4,8 +4,8 @@ header-img: img/astrochimp-bg.jpg
 email: nnamdijr@gmail.com
 copyright_name: N. Offor
 description: "The Urban Lemma Blog."
-baseurl: "nnamdijr.github.io"
-url: "http://nnamdioffor.com"
+baseurl: ""
+url: "https://nnamdioffor.com"
 twitter_username: NnamdiJr
 github_username:  NnamdiJr
 linkedin_username:  nnamdioffor
@@ -19,4 +19,4 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed]
