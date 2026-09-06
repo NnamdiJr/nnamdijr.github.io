@@ -1,0 +1,122 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #101214;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.cover {
+  position: relative;
+  min-height: 100%;
+  overflow: hidden;
+  background: #101214;
+}
+
+.cover::after {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  content: "";
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.05) 35%, rgba(0, 0, 0, 0.72) 100%);
+  pointer-events: none;
+}
+
+.cover-image {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image: url("/mmexport1441777475040.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+.cover > .container {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: flex-end;
+  padding-top: 80px;
+  padding-bottom: 48px;
+}
+
+.cover .text-right {
+  float: none;
+}
+
+.cover h1 {
+  margin: 0 0 0.15em;
+  color: #fff;
+  font-size: clamp(3rem, 7vw, 6.5rem);
+  letter-spacing: -0.04em;
+  text-shadow: 0 2px 20px rgba(0, 0, 0, 0.45);
+}
+
+.cover p {
+  margin: 0 0 1rem;
+  color: #fff;
+  font-size: clamp(1.25rem, 2vw, 2rem);
+  font-weight: 300;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.65);
+}
+
+.navbar-custom {
+  z-index: 3;
+  border: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.45), transparent);
+}
+
+.navbar-custom .nav li a,
+.social-links a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus,
+.social-links a:hover,
+.social-links a:focus {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.navbar-custom .navbar-toggle {
+  border-color: rgba(255, 255, 255, 0.7);
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+.social-links {
+  margin-right: -0.5rem;
+}
+
+@media (max-width: 767px) {
+  .cover::after {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.05) 75%);
+  }
+
+  .cover-image {
+    background-position: 35% center;
+  }
+
+  .cover > .container {
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+
+  .cover .text-right {
+    text-align: left;
+  }
+
+  .navbar-custom .navbar-collapse {
+    border: 0;
+    background: rgba(10, 12, 14, 0.92);
+  }
+}
