@@ -1,0 +1,68 @@
+name: Validate site (no deployment)
+on:
+  push:
+    branches: ["redesign/observatory-2026"]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build with GitHub Pages Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Verify expected routes
+        run: |
+          test -f _site/index.html
+          test -f _site/about/index.html
+          test -f _site/contact/index.html
+          test -f _site/about.html
+          test -f _site/contact.html
+          test -f _site/blog/index.html
+          test "$(cat _site/CNAME)" = nnamdioffor.com
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Browser layout checks and screenshots
+        run: |
+          npm install --prefix /tmp/visual-qa playwright
+          /tmp/visual-qa/node_modules/.bin/playwright install --with-deps chromium
+          python3 -m http.server 8765 --directory _site >/tmp/site-server.log 2>&1 &
+          node <<'JS'
+          const { chromium } = require('/tmp/visual-qa/node_modules/playwright');
+          const fs = require('fs');
+          (async () => {
+            fs.mkdirSync('qa-screenshots', {recursive:true});
+            const browser = await chromium.launch();
+            const results = [];
+            for (const [name, width, height] of [['desktop',1440,1000],['mobile',390,844]]) {
+              const page = await browser.newPage({viewport:{width,height},deviceScaleFactor:1});
+              for (const route of ['/', '/about/', '/contact/', '/blog/']) {
+                const response = await page.goto('http://localhost:8765'+route);
+                await page.evaluate(() => document.fonts.ready);
+                const overflow = await page.evaluate(() => document.documentElement.scrollWidth > innerWidth);
+                results.push({name,route,status:response.status(),overflow});
+                if (response.status() !== 200 || overflow) throw Error(JSON.stringify(results));
+                await page.screenshot({path:'qa-screenshots/'+name+'-'+(route.replaceAll('/','')||'home')+'.png',fullPage:true});
+              }
+              await page.close();
+            }
+            fs.writeFileSync('qa-screenshots/results.json', JSON.stringify(results,null,2));
+            await browser.close();
+          })().catch(e=>{console.error(e);process.exit(1)});
+          JS
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: visual-qa
+          path: qa-screenshots/
+          retention-days: 7
+      - uses: actions/upload-artifact@v4
+        with:
+          name: website-preview
+          path: _site/
+          retention-days: 7
